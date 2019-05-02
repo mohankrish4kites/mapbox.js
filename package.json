@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "corslite": "0.0.7",
-    "leaflet": "1.4.0",
+    "leaflet": "1.2.0",
     "mustache": "3.0.1",
     "sanitize-caja": "0.1.4"
   },
